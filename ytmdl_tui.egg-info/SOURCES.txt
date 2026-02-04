@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+ytmdl_tui/__init__.py
+ytmdl_tui/main.py
+ytmdl_tui.egg-info/PKG-INFO
+ytmdl_tui.egg-info/SOURCES.txt
+ytmdl_tui.egg-info/dependency_links.txt
+ytmdl_tui.egg-info/entry_points.txt
+ytmdl_tui.egg-info/requires.txt
+ytmdl_tui.egg-info/top_level.txt
