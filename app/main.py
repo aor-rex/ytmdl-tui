@@ -32,7 +32,7 @@ THEMES = {
 
 
 class MusicDownloader(App):
-    """A Textual app to download music from YouTube Music."""
+    """A textual app to download music from youTube music."""
     
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
