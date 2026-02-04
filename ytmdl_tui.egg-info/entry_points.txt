@@ -1,2 +1,0 @@
-[console_scripts]
-ytmdl-tui = ytmdl_tui.main:main

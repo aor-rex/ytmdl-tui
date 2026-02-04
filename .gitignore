@@ -1,0 +1,31 @@
+# Packaging and distribution
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# App-specific config (optional)
+# Only ignore this if you don't want your personal test config on GitHub
+config.json
+
+# OS specific
+.DS_Store
+Thumbs.db
