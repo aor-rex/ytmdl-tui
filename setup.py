@@ -13,7 +13,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "ytmdl-tui=ytmdl_tui.main:main",
+            "ytmdl-tui=app.main:main",
         ],
     },
     classifiers=[

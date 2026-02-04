@@ -26,7 +26,7 @@ dependencies = [
 ]
 
 [project.scripts]
-ytmdl-tui = "ytmdl_tui.main:main"
+ytmdl-tui = "app.main:main"
 
 [project.urls]
 Homepage = "https://github.com/aor-rex/ytmdl-tui"
