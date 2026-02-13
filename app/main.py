@@ -32,7 +32,7 @@ THEMES = {
 
 
 class MusicDownloader(App):
-    """A textual app to download music from youTube music."""
+    """A textual app to download music from youtube music."""
     
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -42,7 +42,7 @@ class MusicDownloader(App):
         self.config = self.load_config()
         
     def load_config(self):
-        """Load configuration from file."""
+        """load configuration from file."""
         default_config = {
             "theme": "default",
             "output_dir": str(Path.home() / "Music"),

@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="ytmdl-tui",
     version="1.0.0",
-    description="tui for downloading music from youTube music with metadata",
+    description="tui for downloading music from youtube music with metadata",
     author="aor_rex",
     python_requires=">=3.8",
     packages=find_packages(),
